@@ -1,4 +1,4 @@
-# 🤖 Project Overview
+# 🤖 PROS Project Overview
 
 This project is organized so that different robot functions are split into clear files.  
 It keeps the code modular, easy to debug, and easy to expand.
